@@ -20,5 +20,3 @@ List of technologies I might find useful in the project
 - [Facebook Vector Tool](https://github.com/facebookresearch/faiss)
 - [Pinecone Vector DB](https://www.pinecone.io/)
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
--  
-
