@@ -1,22 +1,17 @@
-# Manga Oracle
+# Manga Oracle Overview
+As a frequent manga reader I've come across into situations when a power/situation/event was described and later referenced in another chapter several months later. Or situations when something is explained but was hard to grasp, for example Hakari's domain expansion and cursed technique is hard to understand. 
 
-## Step 1
-Use an ORC tool that will help you extract text, either in Japanese, Spanish, or English from images. This images will be manga panels.
+This app is meant to work like a chatbot that you can feed with manga and will answer questions or explain things related to it.
 
-## Step 2
-Process the extracted text and store it into a Vector Database,
+The idea behind this project is to provide an educational experience in the development of AI powered applications and technologies I find interesting that I've been wanting to learn more about.
 
-## Step 3
-Use a LLM that will help you answer questions using the stored data in the Vector DB.
+## Architecture
+![Architecture](./assets/architecture.png)
 
-## Useful Technologies 
-List of technologies I might find useful in the project
+## Useful Websites
 
-- [Facebook Llama Model](https://github.com/facebookresearch/llama)
-- [Google Vertex Ai](https://cloud.google.com/vertex-ai/docs/training-overview) into how to trin your model
+- [OpenLLM](https://github.com/bentoml/OpenLLM)
+- [Pinecone](https://www.pinecone.io/)
 - [EasyOCR](https://github.com/JaidedAI/EasyOCR)
-- [Qdrant](https://qdrant.tech/) a Vector DB
-- [GPT4 Alternatives Article](https://www.datacamp.com/blog/12-gpt4-open-source-alternatives)
-- [Facebook Vector Tool](https://github.com/facebookresearch/faiss)
-- [Pinecone Vector DB](https://www.pinecone.io/)
-- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
+- [SurrealDB](https://surrealdb.com/)
+- [WebAssembly](https://webassembly.org/)
