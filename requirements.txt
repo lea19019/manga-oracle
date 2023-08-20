@@ -1,2 +1,7 @@
 Pillow==9.5.0
-paddleocr
+easyocr
+openllm
+openllm[falcon]
+pinecone-client
+surrealdb
+Flask
