@@ -1,7 +1,6 @@
 Pillow==9.5.0
 easyocr
-openllm
-openllm[falcon]
+openai
 pinecone-client
 surrealdb
 Flask

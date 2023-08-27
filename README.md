@@ -21,7 +21,6 @@ python -m pip install -r requirements.txt
 ## Roadmap
 
 ### Tasks to handle the core of the application
-- Figure out how to use an LLM with OpenLLM and use the embedding functionality
 - Figure out how Vectore Databases work and how to use Pinecone
 - Figure out how to transform the output from EasyOCR into an embedding and store it in Pinecone
 - Figure out the best way to group the resulting data of the manga panels from EasyOCR 
